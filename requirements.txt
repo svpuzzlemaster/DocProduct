@@ -1,4 +1,4 @@
-pycurl
+pycurl==7.43.0.3
 pyarrow
 numpy
 matplotlib
