@@ -14,7 +14,7 @@ setup(
     name='docproduct',
     version='0.2.0',
     packages=find_packages(),
-    url='https://github.com/re-search/DocProduct',
+    url='https://github.com/svpuzzlemaster/DocProduct',
     license='MIT',
     author='MedicalQATeam',
     author_email='SanGupta.ML@gmail.com',
