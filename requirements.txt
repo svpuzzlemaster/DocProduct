@@ -9,6 +9,6 @@ keras-pos-embd==0.9.0
 keras-transformer==0.21.0
 tqdm==4.28.1
 faiss
-sklearn==0.21.3
+sklearn
 six==1.12.0
 argparse==1.4.0
