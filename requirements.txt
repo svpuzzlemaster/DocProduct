@@ -1,4 +1,3 @@
-pycurl
 pyarrow
 numpy
 matplotlib
