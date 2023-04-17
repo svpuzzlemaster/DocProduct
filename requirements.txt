@@ -2,7 +2,7 @@ pyarrow
 numpy
 matplotlib
 tensorflow==2.11.1
-tensorflow-gpu==2.11.1
+tensorflow-gpu
 Keras
 keras-pos-embd==0.9.0
 keras-transformer==0.21.0
